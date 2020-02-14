@@ -2,3 +2,4 @@ Some Text (1)
 Change (1)
 firstBranch change (1)
 secondBranch change (1)
+secondBranch change (2) for issue #4
